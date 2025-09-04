@@ -1,7 +1,4 @@
-import pypandoc
-
-# README content
-readme_content = """# 👋 Hi, I'm Manyam Siva Santhosh Kumar Reddy  
+# 👋 Hi, I'm Manyam Siva Santhosh Kumar Reddy  
 
 🎓 **Computer Science Undergraduate** at Kalasalingam University, Tamil Nadu (CGPA: 8.22)  
 💻 **Software Developer | Machine Learning Enthusiast | Full-Stack Learner**  
@@ -48,11 +45,4 @@ readme_content = """# 👋 Hi, I'm Manyam Siva Santhosh Kumar Reddy
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=99220040626&layout=compact&theme=tokyonight)  
 
 ---
-⭐️ *“Quick learner, problem solver, and passionate about building impactful solutions.”*"""
-
-# Save as README.md
-file_path = "/mnt/data/README.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-file_path
+⭐️ *“Quick learner, problem solver, and passionate about building impactful solutions.”*
